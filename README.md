@@ -1,6 +1,8 @@
 # TextTool
 Run TextTool.py (may need to open folder in Visual Studio).
 
+Make sure there's a ROM called Mother.nes (default name) in the same directory.
+
 # Commands
 1 - Writes All Names. By Default, the Names are pulled from TextTool/Strings. You need 4 files (all .txt): EnemyName, ItemName, PlaceName, and PSIName.
 
